@@ -1,1 +1,2 @@
 # whack-a-mole-game-on-FPGA
+Designed and implemented a hardware-based Whack-a-Mole game entirely on the Nexys A7 FPGA without any external microcontrollers. Developed the game logic using Verilog, utilizing LEDs, switches, and 7-segment displays to create an interactive user experience. Demonstrated key digital design concepts including state machines, timing control, randomization, and real-time input/output handling.
